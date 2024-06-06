@@ -1,6 +1,6 @@
 # Emprical Asset Pricing: Ctorss-Section of Stock Return Tutorial
 
-![Project Logo]([link-to-your-logo.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV9gmIcYaCThzBRk-WiJ0GA84O7zo3St49g3FdpeQcqZyj0t1r))
+![Project Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV9gmIcYaCThzBRk-WiJ0GA84O7zo3St49g3FdpeQcqZyj0t1r)
 
 A brief description of what your project does and its purpose.
 

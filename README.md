@@ -1,6 +1,6 @@
 # Emprical Asset Pricing: Ctorss-Section of Stock Return Tutorial
 
-![Project Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV9gmIcYaCThzBRk-WiJ0GA84O7zo3St49g3FdpeQcqZyj0t1r)
+![Project Logo](https://github.com/NanyeonK/EAP_CSSR_Tutorial/assets/104714490/aaf25eea-7d25-424c-b8ca-121435513513)
 
 Empirical Asset Pricing: The Cross Section of Stock Returns with __Python__
 

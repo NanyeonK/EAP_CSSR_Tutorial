@@ -16,8 +16,18 @@ Empirical Asset Pricing: The Cross Section of Stock Returns with __Python__
 - [Ch6. Fama-Macbeth Regression Analysis](https://github.com/NanyeonK/EAP_CSSR_Tutorial/blob/main/Ch6_Fama-Macbeth%20Regression%20Analysis.ipynb)
 ### Part 2
 - [Ch7. CRSP Sample and Market Factor](https://github.com/NanyeonK/EAP_CSSR_Tutorial/blob/main/Ch7_The%20CRSP%20Sample%20and%20Market%20Factor.ipynb)
+- [Ch8. ]()
+- [Ch9. ]()
+- [Ch10. ]()
+- [Ch11. ]()
+- [Ch12. ]()
+- [Ch13. ]()
+- [Ch14. ]()
+- [Ch15. ]()
+- [Ch16. ]()
+- [Ch17. ]()
+- [Ch18. ]()
 
 ## Description
 For the analysis, I recommend to read Ch7 first to prepare data.
 This notebooks are supplement python guide for Empirical asset pricing: The cross section of stock returns.
-
